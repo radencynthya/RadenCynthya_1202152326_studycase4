@@ -1,0 +1,17 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">RadenCynthya_1202152326_studycase4</string>
+    <string name="title_activity_home">Home</string>
+    <string-array name="namaMhs">
+        <item> dina</item>
+        <item> ryan</item>
+        <item> osas</item>
+        <item> reno</item>
+        <item> roy</item>
+        <item> syifa</item>
+        <item> usep</item>
+        <item> lina</item>
+        <item> azmi</item>
+        <item> isa</item>
+    </string-array>
+
+</resources>
